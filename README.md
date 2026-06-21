@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)](https://www.microsoft.com/windows/)
 [![Project Foundation](https://img.shields.io/badge/Template-Unity%20Learn-lightgrey?style=flat&logo=unity)](https://learn.unity.com/)
 
-> 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets, and class structures were provided as a baseline; my role involved programming, and implementing the architectural functionality (such as gameplay programming, scene flow).
+> 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as gameplay programming and scene flow).
 
 ---
 
@@ -33,6 +33,10 @@ https://github.com/user-attachments/assets/2cfe46cb-ec53-4d25-813c-35877a0febc2
 ---
 
 ## 🎯 Implemented Parts
+
+* **Automated Spawning:** Created a timed system to spawn randomized animals from above.
+* **Bounded Movement:** Implemented multidirectional player controls constrained within strict screen boundaries.
+* **Collisions & Game Over:** Developed trigger logic to destroy animals once fed by a projectile, and trigger a "Game Over" console log if an animal passes the player.
 
 ---
 
