@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)](https://www.microsoft.com/windows/)
 [![Project Foundation](https://img.shields.io/badge/Template-Unity%20Learn-lightgrey?style=flat&logo=unity)](https://learn.unity.com/)
 
-> 💡 **Project Note:** This repository is built on a starter template provided by **Unity Learn**. The core scene assets and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as gameplay programming and scene flow).
+> 💡 **Project Note:** This repository is built on a starter template provided by **Unity Learn**. While the core scene assets and class structures were provided as a baseline, I programmed and implemented the gameplay mechanics.
 
 ---
 
